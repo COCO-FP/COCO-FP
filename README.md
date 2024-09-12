@@ -1,4 +1,4 @@
-# False Positive Assessment for COCO Detectors: A Dataset and Benchmark
+# From COCO to COCO-FP: A Deep Dive into Background False Positives for COCO Detectors
 ![image](./figures/distribution.png)
 
 ## Data download
